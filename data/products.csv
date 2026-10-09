@@ -1,0 +1,153 @@
+product_id,product_name,category,sub_category,unit_price,launch_date,is_active
+1,Headphones - Model 1,Electronics,Headphones,3116.17,2023-06-28,False
+2,Headphones - Model 2,Electronics,Headphones,3853.71,2020-04-30,True
+3,Headphones - Model 3,Electronics,Headphones,2396.26,2020-07-21,True
+4,Smartphone - Model 1,Electronics,Smartphone,2188.95,2024-01-14,True
+5,Smartphone - Model 2,Electronics,Smartphone,2158.94,2023-04-10,True
+6,Smartphone - Model 3,Electronics,Smartphone,1373.56,2022-11-30,True
+7,Smartphone - Model 4,Electronics,Smartphone,462.28,2022-06-17,True
+8,Laptop - Model 1,Electronics,Laptop,4810.69,2021-12-28,True
+9,Laptop - Model 2,Electronics,Laptop,2512.7,2020-02-08,True
+10,Laptop - Model 3,Electronics,Laptop,1342.01,2020-09-22,True
+11,Laptop - Model 4,Electronics,Laptop,4400.8,2024-07-14,True
+12,Laptop - Model 5,Electronics,Laptop,4604.17,2024-04-13,True
+13,Smartwatch - Model 1,Electronics,Smartwatch,1663.14,2023-03-06,False
+14,Smartwatch - Model 2,Electronics,Smartwatch,7227.75,2024-02-10,True
+15,Tablet - Model 1,Electronics,Tablet,2973.22,2023-08-16,False
+16,Tablet - Model 2,Electronics,Tablet,2520.08,2021-04-18,True
+17,Tablet - Model 3,Electronics,Tablet,2690.98,2023-02-11,True
+18,Tablet - Model 4,Electronics,Tablet,2224.36,2023-04-30,True
+19,Speaker - Model 1,Electronics,Speaker,3637.27,2019-10-18,True
+20,Speaker - Model 2,Electronics,Speaker,1163.75,2024-04-02,True
+21,Speaker - Model 3,Electronics,Speaker,4818.56,2021-11-01,False
+22,Charger - Model 1,Electronics,Charger,4602.43,2020-10-20,True
+23,Charger - Model 2,Electronics,Charger,425946.0,2021-09-22,False
+24,Charger - Model 3,Electronics,Charger,4392.27,2020-11-21,True
+25,Charger - Model 4,Electronics,Charger,2721.16,2020-11-29,True
+26,Camera - Model 1,Electronics,Camera,4885.77,2022-02-20,True
+27,Camera - Model 2,Electronics,Camera,1868.86,2024-09-26,True
+28,Mixer - Model 1,Home & Kitchen,Mixer,898.12,2021-05-07,False
+29,Mixer - Model 2,Home & Kitchen,Mixer,1644.97,2020-03-26,True
+30,Cookware Set - Model 1,Home & Kitchen,Cookware Set,548.38,2023-05-19,True
+31,Cookware Set - Model 2,Home & Kitchen,Cookware Set,736.59,2020-09-11,False
+32,Cookware Set - Model 3,Home & Kitchen,Cookware Set,1129.3,2022-02-01,True
+33,Cookware Set - Model 4,Home & Kitchen,Cookware Set,2781.18,2020-06-16,True
+34,Vacuum Cleaner - Model 1,Home & Kitchen,Vacuum Cleaner,732.58,2020-03-20,True
+35,Vacuum Cleaner - Model 2,Home & Kitchen,Vacuum Cleaner,2908.47,2020-06-13,False
+36,Vacuum Cleaner - Model 3,Home & Kitchen,Vacuum Cleaner,1811.31,2021-01-18,True
+37,Air Fryer - Model 1,Home & Kitchen,Air Fryer,901.0,2024-06-29,True
+38,Air Fryer - Model 2,Home & Kitchen,Air Fryer,1052.16,2022-11-10,True
+39,Bedsheet - Model 1,Home & Kitchen,Bedsheet,708.59,2022-12-31,True
+40,Bedsheet - Model 2,Home & Kitchen,Bedsheet,957.31,2019-04-23,False
+41,Bedsheet - Model 3,Home & Kitchen,Bedsheet,1222.33,2019-01-23,True
+42,Lamp - Model 1,Home & Kitchen,Lamp,1471.78,2020-12-19,True
+43,Lamp - Model 2,Home & Kitchen,Lamp,201.74,2024-02-08,True
+44,Lamp - Model 3,Home & Kitchen,Lamp,575.0,2019-02-03,True
+45,Lamp - Model 4,Home & Kitchen,Lamp,1327.85,2023-05-28,True
+46,T-Shirt - Model 1,Fashion,T-Shirt,1852.9,2023-09-20,True
+47,T-Shirt - Model 2,Fashion,T-Shirt,278.23,2020-08-06,True
+48,T-Shirt - Model 3,Fashion,T-Shirt,821.99,2019-09-04,True
+49,Jeans - Model 1,Fashion,Jeans,1004.35,2019-11-19,True
+50,Jeans - Model 2,Fashion,Jeans,359.98,2019-06-12,True
+51,Jeans - Model 3,Fashion,Jeans,622.63,2023-11-07,True
+52,Jeans - Model 4,Fashion,Jeans,578.2,2023-07-10,True
+53,Sneakers - Model 1,Fashion,Sneakers,2206.26,2022-11-13,True
+54,Sneakers - Model 2,Fashion,Sneakers,462.97,2019-07-07,True
+55,Sneakers - Model 3,Fashion,Sneakers,1233.98,2024-06-18,True
+56,Sneakers - Model 4,Fashion,Sneakers,118.84,2022-12-07,True
+57,Jacket - Model 1,Fashion,Jacket,490.32,2023-10-05,True
+58,Jacket - Model 2,Fashion,Jacket,1219.31,2021-03-08,True
+59,Jacket - Model 3,Fashion,Jacket,1476.09,2020-02-20,True
+60,Handbag - Model 1,Fashion,Handbag,578.97,2023-09-22,True
+61,Handbag - Model 2,Fashion,Handbag,1505.96,2019-04-18,True
+62,Watch - Model 1,Fashion,Watch,1301.43,2020-01-19,True
+63,Watch - Model 2,Fashion,Watch,1032.21,2019-11-19,True
+64,Watch - Model 3,Fashion,Watch,421.42,2019-06-27,True
+65,Watch - Model 4,Fashion,Watch,1068.37,2022-03-03,True
+66,Watch - Model 5,Fashion,Watch,232.39,2020-04-24,True
+67,Face Wash - Model 1,Beauty,Face Wash,223.24,2024-07-21,True
+68,Face Wash - Model 2,Beauty,Face Wash,324.98,2024-05-11,True
+69,Face Wash - Model 3,Beauty,Face Wash,314.97,2019-12-20,True
+70,Moisturizer - Model 1,Beauty,Moisturizer,552.93,2023-10-08,True
+71,Moisturizer - Model 2,Beauty,Moisturizer,674.58,2019-03-24,True
+72,Moisturizer - Model 3,Beauty,Moisturizer,504.9,2020-08-23,False
+73,Lipstick - Model 1,Beauty,Lipstick,139.19,2022-10-17,True
+74,Lipstick - Model 2,Beauty,Lipstick,838.5,2020-03-08,True
+75,Lipstick - Model 3,Beauty,Lipstick,155.22,2019-06-13,True
+76,Lipstick - Model 4,Beauty,Lipstick,414.5,2019-11-26,True
+77,Lipstick - Model 5,Beauty,Lipstick,86.99,2022-10-15,True
+78,Perfume - Model 1,Beauty,Perfume,75.83,2020-04-09,True
+79,Perfume - Model 2,Beauty,Perfume,567.54,2020-05-31,True
+80,Shampoo - Model 1,Beauty,Shampoo,322.65,2020-03-06,True
+81,Shampoo - Model 2,Beauty,Shampoo,402.47,2024-01-26,True
+82,Shampoo - Model 3,Beauty,Shampoo,168.57,2024-02-09,True
+83,Shampoo - Model 4,Beauty,Shampoo,174.24,2023-08-18,True
+84,Shampoo - Model 5,Beauty,Shampoo,448.32,2019-02-11,True
+85,Yoga Mat - Model 1,Sports,Yoga Mat,1491.38,2020-06-10,True
+86,Yoga Mat - Model 2,Sports,Yoga Mat,1293.91,2024-01-23,True
+87,Yoga Mat - Model 3,Sports,Yoga Mat,1555.92,2022-03-09,True
+88,Yoga Mat - Model 4,Sports,Yoga Mat,1582.7,2019-03-28,True
+89,Yoga Mat - Model 5,Sports,Yoga Mat,2740.31,2020-06-07,True
+90,Dumbbell Set - Model 1,Sports,Dumbbell Set,1503.59,2023-10-03,True
+91,Dumbbell Set - Model 2,Sports,Dumbbell Set,1070.45,2024-01-20,True
+92,Running Shoes - Model 1,Sports,Running Shoes,416.33,2021-06-13,True
+93,Running Shoes - Model 2,Sports,Running Shoes,1472.86,2019-11-15,True
+94,Running Shoes - Model 3,Sports,Running Shoes,635.08,2019-06-12,True
+95,Cricket Bat - Model 1,Sports,Cricket Bat,335.47,2020-04-18,True
+96,Cricket Bat - Model 2,Sports,Cricket Bat,364.93,2023-08-05,True
+97,Cricket Bat - Model 3,Sports,Cricket Bat,730.02,2023-10-02,True
+98,Cricket Bat - Model 4,Sports,Cricket Bat,525.64,2020-06-22,True
+99,Football - Model 1,Sports,Football,1348.92,2024-08-14,False
+100,Football - Model 2,Sports,Football,1534.51,2024-01-18,True
+101,Football - Model 3,Sports,Football,784.29,2024-09-04,True
+102,Fiction Novel - Model 1,Books,Fiction Novel,156.09,2023-04-29,True
+103,Fiction Novel - Model 2,Books,Fiction Novel,115.43,2022-04-18,True
+104,Fiction Novel - Model 3,Books,Fiction Novel,131.63,2024-08-23,True
+105,Fiction Novel - Model 4,Books,Fiction Novel,130.87,2022-12-17,False
+106,Self-Help Book - Model 1,Books,Self-Help Book,1109.9,2023-10-13,True
+107,Self-Help Book - Model 2,Books,Self-Help Book,153.75,2021-04-25,True
+108,Cookbook - Model 1,Books,Cookbook,8870.0,2020-05-21,True
+109,Cookbook - Model 2,Books,Cookbook,396.04,2022-04-19,True
+110,Biography - Model 1,Books,Biography,325.39,2021-05-09,True
+111,Biography - Model 2,Books,Biography,143.96,2021-01-07,False
+112,Biography - Model 3,Books,Biography,301.37,2023-01-02,True
+113,Biography - Model 4,Books,Biography,337.47,2022-07-06,False
+114,Comic - Model 1,Books,Comic,365.5,2020-10-25,True
+115,Comic - Model 2,Books,Comic,487.43,2020-05-22,True
+116,Comic - Model 3,Books,Comic,213.66,2022-02-21,True
+117,Rice 5kg - Model 1,Grocery,Rice 5kg,61.7,2020-11-18,True
+118,Rice 5kg - Model 2,Grocery,Rice 5kg,279.19,2020-05-14,True
+119,Cooking Oil 1L - Model 1,Grocery,Cooking Oil 1L,143.91,2020-04-11,True
+120,Cooking Oil 1L - Model 2,Grocery,Cooking Oil 1L,225.94,2022-10-24,True
+121,Cooking Oil 1L - Model 3,Grocery,Cooking Oil 1L,125.47,2021-05-22,True
+122,Atta 10kg - Model 1,Grocery,Atta 10kg,85.78,2020-12-19,True
+123,Atta 10kg - Model 2,Grocery,Atta 10kg,280.21,2019-08-30,False
+124,Atta 10kg - Model 3,Grocery,Atta 10kg,538.59,2019-04-26,True
+125,Atta 10kg - Model 4,Grocery,Atta 10kg,383.04,2022-12-30,True
+126,Tea Pack - Model 1,Grocery,Tea Pack,337.77,2024-07-25,True
+127,Tea Pack - Model 2,Grocery,Tea Pack,219.48,2020-11-12,True
+128,Tea Pack - Model 3,Grocery,Tea Pack,172.48,2023-11-08,True
+129,Tea Pack - Model 4,Grocery,Tea Pack,297.75,2022-06-17,True
+130,Coffee Jar - Model 1,Grocery,Coffee Jar,620.63,2020-09-29,True
+131,Coffee Jar - Model 2,Grocery,Coffee Jar,195.2,2022-04-05,True
+132,Coffee Jar - Model 3,Grocery,Coffee Jar,475.23,2019-09-30,True
+133,Coffee Jar - Model 4,Grocery,Coffee Jar,624.47,2020-12-10,True
+134,Coffee Jar - Model 5,Grocery,Coffee Jar,368.63,2023-03-24,True
+135,Building Blocks - Model 1,Toys,Building Blocks,430.73,2023-11-23,True
+136,Building Blocks - Model 2,Toys,Building Blocks,740.01,2020-04-08,True
+137,RC Car - Model 1,Toys,RC Car,840.69,2024-03-27,True
+138,RC Car - Model 2,Toys,RC Car,286.45,2022-06-25,True
+139,Puzzle Set - Model 1,Toys,Puzzle Set,698.39,2020-04-26,True
+140,Puzzle Set - Model 2,Toys,Puzzle Set,916.15,2023-06-25,True
+141,Puzzle Set - Model 3,Toys,Puzzle Set,600.7,2024-01-25,True
+142,Puzzle Set - Model 4,Toys,Puzzle Set,189.61,2020-07-26,False
+143,Puzzle Set - Model 5,Toys,Puzzle Set,611.98,2019-08-11,False
+144,Board Game - Model 1,Toys,Board Game,1186.64,2020-08-20,True
+145,Board Game - Model 2,Toys,Board Game,154.32,2023-05-08,True
+146,Board Game - Model 3,Toys,Board Game,25417.0,2019-05-10,False
+147,Board Game - Model 4,Toys,Board Game,235.22,2020-08-30,True
+148,Board Game - Model 5,Toys,Board Game,69.27,2020-11-02,True
+149,Action Figure - Model 1,Toys,Action Figure,661.49,2019-02-05,True
+150,Action Figure - Model 2,Toys,Action Figure,209.75,2022-06-08,False
+151,Action Figure - Model 3,Toys,Action Figure,254.92,2023-08-20,True
+152,Action Figure - Model 4,Toys,Action Figure,218.44,2019-11-24,True
