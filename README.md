@@ -181,7 +181,7 @@ Install the packages listed in `requirements.txt` to get started.
 
 ## License
 
-See the `LICENSE` file for the terms under which this project may be used and shared.
+Released under the [MIT License](LICENSE). You may use, copy, modify and share this workbook, including commercially, as long as the copyright and license notice stay with it.
 
 ---
 
